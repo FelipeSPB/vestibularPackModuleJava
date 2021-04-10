@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d95b3dcc-12bd-4b84-9400-a9f7dccdc25f" name="Default Changelist" comment="" />
+    <list default="true" id="d95b3dcc-12bd-4b84-9400-a9f7dccdc25f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/packvestibular/fisica/cinematica/Sorvetao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/packvestibular/fisica/cinematica/Torricelli.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/packvestibular/fisica/cinematica/VovoAteu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/packvestibular/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/packvestibular/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fisica/cinematica/Sorvetao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fisica/cinematica/muv/FuncaoHorariaDoEspaco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fisica/cinematica/Torricelli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fisica/cinematica/muv/Torricelli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fisica/cinematica/VovoAteu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fisica/cinematica/muv/FuncaoHorariaDaVelocidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +25,19 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Enum" />
         <option value="Interface" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Felipe Biancalana\Desktop\packvestibular\.idea" />
+      </set>
     </option>
   </component>
   <component name="ProjectId" id="1quOei5grKYsqQvYo4Mv19godvD" />
@@ -24,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -99,21 +124,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1617926487656" />
-    <state width="1306" height="179" key="GridCell.Tab.0.bottom" timestamp="1618008063679">
+    <state width="1306" height="179" key="GridCell.Tab.0.bottom" timestamp="1618036742381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618008063679" />
-    <state width="1306" height="179" key="GridCell.Tab.0.center" timestamp="1618008063677">
+    <state width="1306" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618036742381" />
+    <state width="1306" height="179" key="GridCell.Tab.0.center" timestamp="1618036742379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618008063677" />
-    <state width="1306" height="179" key="GridCell.Tab.0.left" timestamp="1618008063676">
+    <state width="1306" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618036742379" />
+    <state width="1306" height="179" key="GridCell.Tab.0.left" timestamp="1618036742378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618008063676" />
-    <state width="1306" height="179" key="GridCell.Tab.0.right" timestamp="1618008063678">
+    <state width="1306" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618036742378" />
+    <state width="1306" height="179" key="GridCell.Tab.0.right" timestamp="1618036742380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618008063678" />
+    <state width="1306" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618036742380" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618072285614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1618072285614" />
   </component>
 </project>

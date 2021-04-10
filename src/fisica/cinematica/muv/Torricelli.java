@@ -1,4 +1,4 @@
-package fisica.cinematica;
+package fisica.cinematica.muv;
 
 import java.text.DecimalFormat;
 

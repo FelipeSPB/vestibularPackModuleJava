@@ -1,8 +1,8 @@
-package fisica.cinematica;
+package fisica.cinematica.muv;
 
 import java.text.DecimalFormat;
 
-public interface VovoAteu {
+public interface FuncaoHorariaDaVelocidade {
     DecimalFormat format = new DecimalFormat("0.##");
 
     static String discoveringFinalV(double vo, double a, double t){

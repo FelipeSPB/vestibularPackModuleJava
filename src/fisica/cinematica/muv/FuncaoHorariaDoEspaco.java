@@ -1,8 +1,8 @@
-package fisica.cinematica;
+package fisica.cinematica.muv;
 
 import java.text.DecimalFormat;
 
-public interface Sorvetao {
+public interface FuncaoHorariaDoEspaco {
 
     DecimalFormat format = new DecimalFormat("0.##");
 
